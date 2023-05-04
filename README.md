@@ -1,6 +1,7 @@
 # VRP_DynamicPoster
 VRPDanceStudioのポスターをGithubから更新するためのプロジェクトです。
-
+## github pages
+https://favnirrr.github.io/VRP_DynamicPoster.io/
 ---
 VRChatからアクセスするためにpublicリポジトリで運営しています。
 
